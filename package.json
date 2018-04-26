@@ -25,6 +25,7 @@
     "@types/stats.js": "^0.17.0",
     "@types/tweenjs": "^0.6.27",
     "easeljs": "^1.0.2",
+    "preload": "^0.1.0",
     "preloadjs": "^1.0.1",
     "soundjs": "^1.0.1",
     "stats.js": "^0.17.0",
